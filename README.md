@@ -13,5 +13,5 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruinenhaft&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=hookb1)](https://solved.ac/hookb1)
+<!--[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=hookb1)](https://solved.ac/hookb1)-->
